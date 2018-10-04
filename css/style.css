@@ -251,20 +251,7 @@ a.gplus:active { background-position: -80px -80px; }
   background-repeat: no-repeat, repeat-y;
   padding: 30px 0;
 }
-
-/********** Sections **********/
-
-section {
-  padding: 20px;
-  background: white;
-}
-
-section a {
-  color: #555;
-  text-decoration: underline;
-}
-
-.column {
+  .column {
   display:inline-block;
   width:30%;
 }
@@ -281,6 +268,19 @@ section a {
   height:300%;
 }
 
+}
+
+/********** Sections **********/
+
+section {
+  padding: 20px;
+  background: white;
+}
+
+section a {
+  color: #555;
+  text-decoration: underline;
+}
 
 /********** Details **********/
 
